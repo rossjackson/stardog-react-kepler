@@ -29,6 +29,8 @@ const KeplerDemo = () => {
     useEffect(() => {
         if (!getCovidCasesResponseData?.length) return
 
+        // This is just a sample on how to dispatch to our own redux
+        // This is not used elsewhere.
         dispatch(covidCasesDataUpdateData(getCovidCasesResponseData))
 
         const covidCasesRows = getCovidCasesResponseData.map((covidCase) => {
@@ -131,8 +133,6 @@ const KeplerDemo = () => {
     }, [dispatch, getCovidCasesResponseData])
 
     if (error) return <div>Error! {JSON.stringify(error)}</div>
-
-    console.log(getCovidCasesResponseData, keplerGl)
 
     return (
         <>

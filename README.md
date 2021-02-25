@@ -1,6 +1,6 @@
 ## Demo
 
-https://jologz.github.io/stardog-react-typescript/
+https://jologz.github.io/stardog-react-kepler/
 
 ## Environment Variables
 

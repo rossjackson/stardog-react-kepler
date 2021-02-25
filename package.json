@@ -2,6 +2,7 @@
     "name": "stardog-react-kepler",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://jologz.github.io/stardog-react-kepler",
     "dependencies": {
         "colorbrewer": "1.4.0",
         "kepler.gl": "2.4.0",
@@ -21,6 +22,7 @@
         "@types/react": "16.14.4",
         "@types/react-dom": "16.9.11",
         "@types/react-redux": "7.1.16",
+        "gh-pages": "3.1.0",
         "react-palm": "3.3.7",
         "react-scripts": "4.0.3"
     },
@@ -28,7 +30,9 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
         "extends": [

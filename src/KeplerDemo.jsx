@@ -9,7 +9,7 @@ import { covidCasesDataUpdateData } from 'redux/covidCases/actions'
 import { useQuery } from 'stardog/useQuery'
 
 const KeplerDemo = () => {
-    const { covidCasesData, keplerGl } = useSelector((state) => state)
+    const { covidCasesData } = useSelector((state) => state)
     const dispatch = useDispatch()
 
     const [

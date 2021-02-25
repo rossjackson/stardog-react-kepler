@@ -4,7 +4,7 @@ const selectColumnNames = [
     'countyName',
     'cases',
     'population',
-    'percentClass',
+    'percentCases',
     'lat',
     'lng',
 ] as const

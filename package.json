@@ -3,10 +3,12 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
+        "colorbrewer": "1.4.0",
         "kepler.gl": "2.4.0",
         "react": "16.14.0",
         "react-dom": "16.14.0",
         "react-redux": "7.2.2",
+        "react-virtualized": "9.22.3",
         "stardog": "3.0.0",
         "typescript": "4.2.2"
     },

@@ -83,32 +83,9 @@ const KeplerDemo = () => {
                                     isVisible: true,
                                     visConfig: {
                                         opacity: 0.8,
-                                        // colorRange: {
-                                        //     name: 'Global Warming',
-                                        //     type: 'sequential',
-                                        //     category: 'Uber',
-                                        //     colors: [
-                                        //         '#5A1846',
-                                        //         '#900C3F',
-                                        //         '#C70039',
-                                        //         '#E3611C',
-                                        //         '#F1920E',
-                                        //         '#FFC300',
-                                        //     ],
-                                        // },
                                         radius: 97.4,
                                     },
                                     hidden: false,
-                                    // textLabel: [
-                                    //     {
-                                    //         field: null,
-                                    //         color: [255, 255, 255],
-                                    //         size: 18,
-                                    //         offset: [0, 0],
-                                    //         anchor: 'start',
-                                    //         alignment: 'center',
-                                    //     },
-                                    // ],
                                 },
                                 visualChannels: {
                                     weightField: {

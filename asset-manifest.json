@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/stardog-react-kepler/static/js/main.c611beed.chunk.js",
-    "main.js.map": "/stardog-react-kepler/static/js/main.c611beed.chunk.js.map",
+    "main.js": "/stardog-react-kepler/static/js/main.c3a768f6.chunk.js",
+    "main.js.map": "/stardog-react-kepler/static/js/main.c3a768f6.chunk.js.map",
     "runtime-main.js": "/stardog-react-kepler/static/js/runtime-main.93d299c1.js",
     "runtime-main.js.map": "/stardog-react-kepler/static/js/runtime-main.93d299c1.js.map",
-    "static/js/2.43e525e0.chunk.js": "/stardog-react-kepler/static/js/2.43e525e0.chunk.js",
-    "static/js/2.43e525e0.chunk.js.map": "/stardog-react-kepler/static/js/2.43e525e0.chunk.js.map",
+    "static/js/2.5b0fb7d5.chunk.js": "/stardog-react-kepler/static/js/2.5b0fb7d5.chunk.js",
+    "static/js/2.5b0fb7d5.chunk.js.map": "/stardog-react-kepler/static/js/2.5b0fb7d5.chunk.js.map",
     "index.html": "/stardog-react-kepler/index.html",
-    "static/js/2.43e525e0.chunk.js.LICENSE.txt": "/stardog-react-kepler/static/js/2.43e525e0.chunk.js.LICENSE.txt"
+    "static/js/2.5b0fb7d5.chunk.js.LICENSE.txt": "/stardog-react-kepler/static/js/2.5b0fb7d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93d299c1.js",
-    "static/js/2.43e525e0.chunk.js",
-    "static/js/main.c611beed.chunk.js"
+    "static/js/2.5b0fb7d5.chunk.js",
+    "static/js/main.c3a768f6.chunk.js"
   ]
 }

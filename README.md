@@ -8,7 +8,7 @@ This project uses kepler.gl to render the data on the map. For the query to work
 
 ## Demo
 
-https://jologz.github.io/stardog-react-kepler/
+https://rossjackson.github.io/stardog-react-kepler/
 
 ![COVID-19 Heatmap](./public/covid19nyt.png)
 
